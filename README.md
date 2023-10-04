@@ -14,7 +14,7 @@ datasets can be found here : https://github.com/toUpperCase78/formula1-datasets/
 - Pandas dataframe compatible
 
 ## Basic Demo
-Here is a brief guide on how to use basic functionality, most tools are shown either here, in the demos or aren't too hard to figure out from the library file as its ~200 lines
+Here is a brief guide on how to use basic functionality, most tools are shown in the demos or aren't too hard to figure out from the library file as its ~200 lines
 
 ```
 import f1point5 as f1
