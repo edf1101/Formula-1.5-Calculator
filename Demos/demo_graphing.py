@@ -8,13 +8,13 @@ import f1point5 as f1
 import pandas as pd
 import matplotlib.pyplot as plt
 
-banned_teams = ['Red Bull Racing Honda RBPT', 'Mercedes', 'Ferrari']  # In this example we excluding top 3 teams
+banned_teams = ['Red Bull Racing Honda RBPT']  # In this example we exclude red bull
 
 # The team colour of each driver
 driver_colors = {'Max Verstappen': (0, 0, 0.4), 'Sergio Perez': (0, 0, 0.4),
                  'Carlos Sainz': (0.9, 0, 0), 'Charles Leclerc': (0.9, 0, 0),
                  'Valtteri Bottas': (0.6, 0, 0), 'Guanyu Zhou': (0.6, 0, 0),
-                 'Lewis Hamilton': (0, 0.7, 0.65), 'George Russel': (0, 0.7, 0.65),
+                 'Lewis Hamilton': (0, 0.7, 0.65), 'George Russell': (0, 0.7, 0.65),
                  'Lando Norris': (0.9, 0.5, 0), 'Oscar Piastri': (0.9, 0.5, 0),
                  'Pierre Gasly': (0.3, 0.5, 0.9), 'Esteban Ocon': (0.3, 0.5, 0.9),
                  'Fernando Alonso': (0, 0.3, 0), 'Lance Stroll': (0, 0.3, 0),
