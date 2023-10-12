@@ -6,6 +6,8 @@ Having just learnt pandas for my Machine Learning Module at University I thought
 
 datasets can be found here : https://github.com/toUpperCase78/formula1-datasets/ thanks to the work of user 'toUpperCase78'
 
+The basics of the code and a bit of documentation can be found in the Jupyter Notebook in the /docs folder
+
 ## Features 
 - Exclude specifc teams from Driver & Constructor championships and provide correct recalculated standings
 - Sprint and Full Race support
